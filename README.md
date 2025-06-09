@@ -1,7 +1,7 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abanoub0x/Abanoub0x/main/Abanoub.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abanoub0x/Abanoub0x/main/Abanoub.png" alt="Banner" width="600px" height="150px" />
 </p>
+
 
 
 
