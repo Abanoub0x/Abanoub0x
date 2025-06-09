@@ -9,8 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/anime-gif-22879862" alt="Funny Coding Meme" />
-
+<div class="tenor-gif-embed" data-postid="22879862" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/anime-gif-22879862">Anime Sticker</a>from <a href="https://tenor.com/search/anime-stickers">Anime Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 ### 🛠️ Tech Stack
