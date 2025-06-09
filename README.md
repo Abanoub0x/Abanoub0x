@@ -1,6 +1,15 @@
-<h2 align="left">Hi 👋! My name is Abanoub Amir and I'm a passionate developer from Egypt 🇪🇬</h2>
+<h2 align="left">Hi ! My name is Abanoub Amir and I'm a passionate Full Stack Developer and aspiring Cybersecurity Pentester</h2>
 
-###
+<p>
+I’m currently a student developing skills in full stack web development and exploring the exciting world of cybersecurity. 
+I enjoy building user-friendly applications and learning how to identify and understand security vulnerabilities. 
+I’m eager to grow my knowledge and contribute to safer software through continuous learning and hands-on practice.
+</p>
+
+<p>
+Feel free to connect with me on LinkedIn or reach out via email — let's learn and build together!
+</p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abanoub0x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
