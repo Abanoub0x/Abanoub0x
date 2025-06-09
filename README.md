@@ -1,13 +1,9 @@
-<h2 align="left">Hi ! My name is Abanoub Amir and I'm a passionate Full Stack Developer and aspiring Cybersecurity Pentester</h2>
+<h2 align="left">Hi ! My name is Abanoub Amir and I'm a passionate Full Stack Developer and entry-level Cybersecurity Pentester</h2>
 
 <p>
 I’m currently a student developing skills in full stack web development and exploring the exciting world of cybersecurity. 
 I enjoy building user-friendly applications and learning how to identify and understand security vulnerabilities. 
 I’m eager to grow my knowledge and contribute to safer software through continuous learning and hands-on practice.
-</p>
-
-<p>
-Feel free to connect with me on LinkedIn or reach out via email — let's learn and build together!
 </p>
 
 
