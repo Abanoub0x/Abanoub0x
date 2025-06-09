@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Funny Coding Meme" />
+<img src="https://media.tenor.com/YOu2yOnvNQwAAAAC/itachi-naruto.gif" height="150" alt="Itachi Uchiha" />
+
 
 ###
 
