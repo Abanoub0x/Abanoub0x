@@ -9,7 +9,7 @@
 
 ###
 
-<img src="https://media.tenor.com/2P7N3XLLc6EAAAAm/anime.webp" alt="Anime Sticker" height="150" />
+<img align="right" height="150" src="https://media.tenor.com/2P7N3XLLc6EAAAAm/anime.webp" alt="Itachi" />
 
 ###
 
