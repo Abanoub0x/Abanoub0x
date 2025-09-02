@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abanoub0x/Abanoub0x/main/Abanoub Amir.png" alt="Banner" width="800px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abanoub0x&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+
 </p>
 
 
