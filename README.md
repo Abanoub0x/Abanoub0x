@@ -5,20 +5,14 @@
 
 
 
-<h2 align="left">Hi, My name is Abanoub Amir and I'm a passionate Full Stack Developer and entry-level Cybersecurity Pentester</h2>
+<h2 align="left">Hi, My name is Abanoub Amir and I'm an entry level Full Stack Developer</h2>
 
 <p>
-I’m currently a student developing skills in full stack web development and exploring the exciting world of cybersecurity. 
+I’m currently a student developing skills in full stack web development. 
 I enjoy building user-friendly applications and learning how to identify and understand security vulnerabilities. 
-I’m eager to grow my knowledge and contribute to safer software through continuous learning and hands-on practice.
 </p>
 
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abanoub0x&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abanoub0x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
 
 ###
 
