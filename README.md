@@ -8,8 +8,8 @@
 <h2 align="left">Hi, My name is Abanoub Amir and I'm an entry level Full Stack Developer</h2>
 
 <p>
-I’m currently a student developing skills in full stack web development. 
-I enjoy building user-friendly applications and learning how to identify and understand security vulnerabilities. 
+I’m currently a student developing skills in backend web development. 
+I enjoy building user-friendly applications.
 </p>
 
 
