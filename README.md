@@ -21,7 +21,8 @@ Deeply interested in data structures, algorithms, and robust backend architectur
 
 ###
 
-### 🛠️ Tech Stack
+
+
 ### 🛠️ Tech Stack
 
 <div align="left">
@@ -38,7 +39,9 @@ Deeply interested in data structures, algorithms, and robust backend architectur
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" />
 </div>
-###
+
+
+
 
 ### 📫 Connect with Me
 
@@ -55,7 +58,9 @@ Deeply interested in data structures, algorithms, and robust backend architectur
 
 ###
 
+
 <br clear="both" />
+
 
 ### 🐍 Snake Contributions Animation
 
