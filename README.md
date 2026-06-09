@@ -5,12 +5,13 @@
 
 
 
-<h2 align="left">Hi, My name is Abanoub Amir and I'm an entry level Backend Developer</h2>
+<h2 align="left">Hi, I'm Abanoub Amir | Backend Engineer</h2>
 
 <p>
-I’m currently a student developing skills in backend web development. 
-I enjoy building user-friendly applications.
+Computer Science student focused on building highly optimized, scalable, and secure server-side systems. 
+Deeply interested in data structures, algorithms, and robust backend architectures.
 </p>
+
 
 
 
