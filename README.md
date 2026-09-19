@@ -2,7 +2,7 @@
   <img src="Abanoub Amir.jpeg" alt="Banner" width="800px" height="200px" />
 </p>
 
-<h2 align="left">Hi, I'm Abanoub Amir | Backend Engineer</h2>
+<h2 align="left">Hi, I'm Abanoub Amir | Backend Developer</h2>
 
 <p>
 Computer Science student focused on backend development with Node.js, TypeScript, NestJS, and PostgreSQL.
