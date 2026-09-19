@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Abanoub Amir.jpeg" alt="Banner" width="800px" height="200px" />
+  <img src="Abanoub Amir.png" alt="Banner" width="800px" height="200px" />
 </p>
 
 <h2 align="left">Hi, I'm Abanoub Amir | Backend Developer</h2>
